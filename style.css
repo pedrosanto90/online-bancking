@@ -1,0 +1,11 @@
+
+.login_container {
+    display: inline-block;
+    background-color: blue;
+    padding: 1.5em;
+}
+
+.title {
+    display: inline-flex;
+    align-items: center;
+}
